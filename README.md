@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Vahini 👋
 
-<!--
-**vahini7256/vahini7256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Currently pursuing B.Tech in Computer Science Engineering
+- 💻 Interested in Programming, Artificial Intelligence, and Software Development
+- 🌱 Currently learning Python, Java, Machine Learning, and Data Structures
+- 🚀 Building projects to improve my technical skills
+
+## Skills
+
+- Python
+- Java
+- C
+- SQL
+- Machine Learning
+- HTML
+- CSS
+
+## Projects
+
+- Dynamic Product Pricing System
+- AI-Based Software Project Health Prediction
+- IoT Projects
+
+## Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/vahini-s-344a0232b
+
+GitHub:
+https://github.com/vahini7256
+
+---
+
+Thanks for visiting my profile! 😊
