@@ -23,7 +23,6 @@
 
 - Dynamic Product Pricing System
 - AI-Based Software Project Health Prediction
-- IoT Projects
 
 ## Connect With Me
 
