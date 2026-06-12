@@ -1,10 +1,10 @@
 # Hi, I'm Vahini 👋
 
-🎓 Computer Science Engineering Student
+🎓 Artificial Intelligence and Data Science Student
 
 ## About Me
 
-- 📚 Currently pursuing B.Tech in Computer Science Engineering
+- 📚 Currently pursuing B.Tech in Artificial Intelligence and Data Science Engineering
 - 💻 Interested in Programming, Artificial Intelligence, and Software Development
 - 🌱 Currently learning Python, Java, Machine Learning, and Data Structures
 - 🚀 Building projects to improve my technical skills
